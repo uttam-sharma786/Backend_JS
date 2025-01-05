@@ -1,0 +1,24 @@
+{
+  "name": "code_aur_uttam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "DB",
+    "Backend"
+  ],
+  "author": "Code aur Uttam",
+  "license": "ISC",
+  "description": "A Backend at CodewithUttam",
+  "dependencies": {
+    "i": "^0.3.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
